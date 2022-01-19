@@ -1,0 +1,49 @@
+/*CSS Reset*/
+body *{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: "Cabin";
+}
+/*Logo ricomida*/
+.logo-txt {
+    font-family: "Lobster";
+    font-weight: 400;
+    font-size: 3rem;
+    
+}
+/*Titulo pizza*/
+.negra {
+    font-weight: 700;
+    text-align: left;
+    padding-right: 15%;
+    padding-top: 2%;
+}
+/*Ubicación indicadores carrusel*/
+.carousel-indicators {
+    bottom: -50px;
+}
+
+.carousel-inner {
+    margin-bottom:50px;
+ }
+/*Botones enviar correo y favoritos*/
+.buton_main {
+    border:1px solid #DDDDDD
+}
+/*Sección newsletter*/
+.sec4{
+    background: #DC3545;
+    height: 30rem;
+    color:#FFFFFF;
+    text-align: center;
+    padding: 5rem;
+}
+.cambiofont {
+    font-family: "Lobster";
+}
+#btnEmpezar {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    
+}
